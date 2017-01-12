@@ -104,7 +104,7 @@ public class ArrayStack <Item> implements Stack <Item>
 }
 
 
-class ArrayStackDriver
+class VariableStack
 {
   public static void main (String a[])
   {
